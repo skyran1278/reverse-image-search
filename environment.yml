@@ -1,0 +1,10 @@
+name: reverse-image-search
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - numpy
+      - pandas
+      - matplotlib
+      - scikit-learn
+      - tensorflow
